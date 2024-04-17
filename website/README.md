@@ -1,1 +1,0 @@
-# shah-bekhsh.github.io
