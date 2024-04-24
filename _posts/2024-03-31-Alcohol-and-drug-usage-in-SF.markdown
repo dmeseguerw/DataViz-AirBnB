@@ -19,7 +19,11 @@ Since the Great Depression, San Francisco has seen an almost impressive improvem
 
 We map drugs/narcotics and alcohol related incidents to the map of the city. This interactive map of the city shows the state of substance related crimes over the years (2003-2017). We can clearly see that areas with some of the lowest income are hotspots for crime. As described above, Mission district and Bayview district are among the regions with high concentration of drug crimes.
 
-<iframe src="/time_heatmap.html" height="500" width="100%"></iframe>
+
+
+<iframe src="/data_htmls/choropleth_map.html" height="500" width="100%"></iframe>
+
+<iframe src="/data_htmls/airbnbs_marker.html" height="500" width="100%"></iframe>
 
 Tenderloin is the worst affected region in SF due to drugs and the trend appears to be detriorating over the time. Throughout the years, the number of incidents have either remained contstant of increased in this region. This can be attributed to an array of underlying social, economical and political circumstances. A survey [^survey] related to substance use, treatment and housing in Tenderloin reveals that this region has historically been a central location for many marginalized Americans (especially Black, Hispanic and Gay, Lesbian and Queer communities). Over the years, Tenderloin has become a last resort for homeless and poverty ridden people of SF. Conversely, the areas around 19th Avenue, such as Sunset Dst, Forest Hill and Ocean View have some of the lowest incidents throughout the years. As seen in [this](https://sf.curbed.com/2016/12/9/13899936/income-inequality-map-san-francisco) blogpost, these are some of the highest income localities in the city of SF.
 
@@ -39,7 +43,7 @@ This calendar plot immediately shows us some interesting patterns regarding the 
 
 #### Interaction
 
-<iframe src="/Bokeh.html" height="500" width="700" style="border:none;"></iframe>
+<iframe src="/data_htmls/copenhagen_map.html" height="500" width="700" style="border:none;"></iframe>
 
 The interactive visualization presented above illustrates the incidence count of three distinct categories over time, with a specific emphasis on the yearly interval. The blue line, representing drug/narcotic incidents, exhibits a pronounced peak around 2008, followed by a gradual decline thereafter. The turquoise line, indicating drunkenness, alongside the green line, denoting driving under the influence, both maintain relatively stable but significantly lower incident counts over the same period.
 
