@@ -1,15 +1,17 @@
 ---
 layout: post
 author: Shah, Daniel & Dan
-title: "Alcohol and drug usage in San Francisco from 2003-2018"
-date: 2024-03-31 12:30:14
-subtitle: "How does substance abuse behave in San Francisco? A collection of insights and visualizations on the city's alcohol and drug usage. "
+title: "AirBnB Neighborhood Analysis(Change title)"
+date: 2024-04-24 12:30:14
+subtitle: "Add subtitles here "
 background: "/images/sf.jpg"
 ---
 
 #### Introduction To The Dataset
 
-San Francisco is the 13th largest city in the United States Of America. Its inhabitants include people from various cultural and ethnic background, including Asians, African Americans, Hispanics, etc. With over 808,000 people living in the city since 2020, San Francisco is seeing a rise in crime. In this article, we take a deep dive into the historical data published by the San Francisco Police Department (SFPD), from the years 2003 to 2018 ([DataSF](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data)), and statistically analyze the effects of drugs on the San Francisco community.
+Write a small intro bla bla bla...
+
+<!-- San Francisco is the 13th largest city in the United States Of America. Its inhabitants include people from various cultural and ethnic background, including Asians, African Americans, Hispanics, etc. With over 808,000 people living in the city since 2020, San Francisco is seeing a rise in crime. In this article, we take a deep dive into the historical data published by the San Francisco Police Department (SFPD), from the years 2003 to 2018 ([DataSF](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data)), and statistically analyze the effects of drugs on the San Francisco community. -->
 
 
 
