@@ -51,4 +51,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-basewebsite: /DataViz-AirBnB
+baseurl: /DataViz-AirBnB
