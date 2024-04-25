@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about/
+# permalink: /about/
 background: "/images/about.png"
 ---
-This website is part of our project for the course 02805 - Social Data Visualization course. We aim to use this website to show interesting and meaningful trends that we observe within the data that we analyze. The first post on this website is related to analyzing trends in substance abuse in the city of San Francisco, California.
+This website is part of our project for the course 02805 - Social Data Visualization course. We aim to use this website to show interesting and meaningful trends that we observe within the data that we analyze.
 
 Through various analyses we provide here, we hope to bring to light insights, that are previously unobserved or generally difficult to analyze.
 
