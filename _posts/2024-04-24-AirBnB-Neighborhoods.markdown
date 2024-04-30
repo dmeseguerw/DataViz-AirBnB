@@ -27,14 +27,18 @@ As a starter, we present a choropleth map that covers the distribution of rental
 
 ##### Trending neighborhoods
 
-At a first glance, notice how 3 neighborhoods stand out as the ones with the highest number of rentals: Norrebro, Vesterbro-Kongens Enghave, and Indre By. According to Sølver REF, these 3 neighborhoods, along with Frederiksberg, are the best in Copenhagen. They all offer a lot of entertainment, restaurants, bakeries, shops, and sightseeing. For instance, Norrebro is recognized for its authentic and local Copenhagen atmosphere, with several Danish bakeries and local designer shops, while Indre By is renowned for its list of sightseeing attractions, which can actually be seen on the map with the red markers REF.
+At a first glance, notice how 3 neighborhoods stand out as the ones with the highest number of rentals: Nørrebro, Vesterbro-Kongens Enghave, and Indre By. According to Sølver [^nghbs], these 3 neighborhoods, along with Frederiksberg, are the best in Copenhagen. They all offer a lot of entertainment, restaurants, bakeries, shops, and sightseeing. For instance, Nørrebro is recognized for its authentic and local Copenhagen atmosphere, with several Danish bakeries and local designer shops, while Indre By is renowned for its list of sightseeing attractions, which can actually be seen on the map with the red markers [^landmarks].
 
 
 ##### Harder to get to neighborhoods
 
-On the other hand, notice the 4 neighborhoods with the least amount of rentals: Bispebjerg, Bronshoj-Husum, Vanlose, and Valby. An interesting question might jump from this: why are all these neighborhoods on the west part of the city? Although these neighborhoods also offer a lot, REF ..., there is a small issue in their location that probably makes people resist from renting their places: less access to public transportation. 
+On the other hand, notice the 4 neighborhoods with the least amount of rentals: Bispebjerg, Brønshøj-Husum, Vanløse, and Valby. An interesting question might jump from this: why are all these neighborhoods on the west part of the city? Although these neighborhoods also offer a lot, there is a small issue in their location that probably makes people resist from renting their places: less access to public transportation. 
 
-If we observe the public transportation map of Copenhagen, we can immediately notice something about the metro and the trains: most of the routes are located on the east part of the city. This is something interesting to note if you are planning on visiting Copenhagen; there could be price differences but access to public transport is essential to many people. However, don't be afraid and hold back; a few metro lines and train rails are currently under planning or construction, connecting more of the west side of the city to the whole transport network. REF
+<img src="{{ site.baseurl }}/images/transport.png" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+
+<!-- ![Copenhagen metro and railway system]("{{ site.baseurl }}/images/transport.jpg") -->
+
+If we observe the public transportation map of Copenhagen, we can immediately notice something about the metro and the trains: most of the routes are located on the east part of the city. This is something interesting to note if you are planning on visiting Copenhagen. Even though there are a lot of bus routes and services offered in these neighborhoods, train and metro services are lacking, with most of them only having a couple of stops.
 
 
 #### Short break! 
@@ -48,6 +52,8 @@ Now we want to take a break from all this interesting stories. Feel free to play
 
 [^investopedia]: Folger, J. (2023). How Airbnb Works—for Hosts, Guests, and the Company Itself. From a single air mattress in 2007 to an S&P 500 listing today. Retrieved from [https://www.investopedia.com/articles/personal-finance/032814/pros-and-cons-using-airbnb.asp](https://www.investopedia.com/articles/personal-finance/032814/pros-and-cons-using-airbnb.asp)
 
-[^airbnb]: AirBnB (2023). About us. Retrieved from [https://news.airbnb.com/about-us/](https://news.airbnb.com/about-us/)
-[^Winter]: "Why Do Drug Overdoses Increase in Winter?" _The Right Step Rehab Hill Country_. Retrieved from [https://www.rightsteprehabhillcountry.com/addiction-blog/why-do-drug-overdoses-increase-in-winter/](https://www.rightsteprehabhillcountry.com/addiction-blog/why-do-drug-overdoses-increase-in-winter/)
-[^UNODC]: United Nations Office on Drugs and Crime. (2007). Strategy for the period 2008-2011 for the United Nations Office on Drugs and Crime. E/CN.7/2007/14–E/CN.15/2007/5. UNODC.
+[^nghbs]: Sølver, C. (2022). The best neighborhoods in Copenhagen to find your hygge. Retrieved from [https://www.lonelyplanet.com/articles/best-neighborhoods-in-copenhagen](https://www.lonelyplanet.com/articles/best-neighborhoods-in-copenhagen)
+
+[^landmarks]: Visit Copenhagen (2024). Top attractions in Copenhagen. Retrieved from [https://www.visitcopenhagen.com/copenhagen/activities/top-attractions-copenhagen](https://www.visitcopenhagen.com/copenhagen/activities/top-attractions-copenhagen)
+
+[^airbnb]: AirBnB. (2023). About us. Retrieved from [https://news.airbnb.com/about-us/](https://news.airbnb.com/about-us/)
