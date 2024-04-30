@@ -7,23 +7,35 @@ subtitle: "A small story on the company's status in Denmark's capital"
 background: "/images/nyhavn.jpg"
 ---
 
-#### About AirBnB
+### About AirBnB
 20 years ago, the hospitality industry consisted on booking only hotel or motel rooms, making it sometimes difficult to travel to cities with low offerings, or prices being ridiculously high. In 2007, the company AirBnB was founded in San Francisco, as a hospitality service that connects people who want to rent out their properties with people who are looking for accomodations. Ever since, AirBnB has grown to over 5 million hosts, with more than 1.5 billion guests, in almost every country in the world. The idea was simple but effective: creating a safe platform for people to show their places on rent and earn some income, and also for visitors to rent places that felt like "home" [^airbnb]. 
 
 AirBnB's business model relies on a "sharing economy", by taking a cut everytime someone books a stay. One good aspect of this service is that it doesn't require hosts to pay to list their properties. Hosts can always list what they want and also set the price accordingly [^investopedia]. Also, moving on to the safety side, AirBnB provides some regulations on how both hosts and users should communicate, ensuring that everyone feels safe and there are no threats, which could result in booking cancellations or even blocking users. 
 
 
-#### Introduction to Dataset
+### Introduction to Dataset
 
 In this post, we'll be exploring AirBnB's data in Copenhagen at the moment of September 2023. This dataset includes an ample set of data ranging from hosts information and ratings, to accomodations information, type, ratings, and location. We'll perform a deep analysis to find interesting patterns, and provide external data to support our findings. A lot of questions can be asked and we'll try to answer some of them: why does certain neighborhoods have lower rentals than others? What are the pricest neighborhoods to rent in Copenhagen? What type of accomodations are usually offered? What is the relationship with pricing and ratings? What can we know about hosts in Copenhagen?
 
-#### Neighborhood distribution
+### Neighborhood analysis
 
-As a starter, we present a choropleth map that covers the distribution of rentals per neighborhood in Copenhagen, starting from green as the lowest up to red as the highest number. At a first glance, notice how 2 neighborhoods stand out as the ones with the highest number of rentals: Norrebro and Vesterbro-Kongens Enghave. According to .... provide a reference and something ......
+As a starter, we present a choropleth map that covers the distribution of rentals per neighborhood in Copenhagen, starting from green as the lowest up to red as the highest number.
 
-On the other hand, notice the 4 neighborhoods with the least amount of rentals: Bispebjerg, Bronshoj-Husum, Vanlose, and Valby. An interesting question might jump from this: why are all these neighborhoods on the west part of the city? ..... FIND SOMETHING INTERESTING .....
+<iframe src="{{ site.baseurl }}/data_htmls/choropleth_map_landmarks.html" height="500" width="100%"></iframe>
 
-<iframe src="{{ site.baseurl }}/data_htmls/choropleth_map.html" height="500" width="100%"></iframe>
+
+
+##### Trending neighborhoods
+
+At a first glance, notice how 3 neighborhoods stand out as the ones with the highest number of rentals: Norrebro, Vesterbro-Kongens Enghave, and Indre By. According to Sølver REF, these 3 neighborhoods, along with Frederiksberg, are the best in Copenhagen. They all offer a lot of entertainment, restaurants, bakeries, shops, and sightseeing. For instance, Norrebro is recognized for its authentic and local Copenhagen atmosphere, with several Danish bakeries and local designer shops, while Indre By is renowned for its list of sightseeing attractions, which can actually be seen on the map with the red markers REF.
+
+
+##### Harder to get to neighborhoods
+
+On the other hand, notice the 4 neighborhoods with the least amount of rentals: Bispebjerg, Bronshoj-Husum, Vanlose, and Valby. An interesting question might jump from this: why are all these neighborhoods on the west part of the city? Although these neighborhoods also offer a lot, REF ..., there is a small issue in their location that probably makes people resist from renting their places: less access to public transportation. 
+
+If we observe the public transportation map of Copenhagen, we can immediately notice something about the metro and the trains: most of the routes are located on the east part of the city. This is something interesting to note if you are planning on visiting Copenhagen; there could be price differences but access to public transport is essential to many people. However, don't be afraid and hold back; a few metro lines and train rails are currently under planning or construction, connecting more of the west side of the city to the whole transport network. REF
+
 
 #### Short break! 
 
