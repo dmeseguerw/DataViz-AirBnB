@@ -62,6 +62,7 @@ In the realm of rental availability, over half of the landlords typically offer 
 On the other hand, notice the 4 neighborhoods with the least amount of rentals: **Bispebjerg, Brønshøj-Husum, Vanløse, and Valby**. An interesting question might jump from this: why are all these neighborhoods on the west part of the city? Although these neighborhoods also offer a lot, there is a small issue in their location that probably makes people resist from renting their places: **less access to public transportation**. 
 
 
+<img src="{{ site.baseurl }}/images/transport.png" style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
 
 <!-- ![Copenhagen metro and railway system]("{{ site.baseurl }}/images/transport.jpg") -->
 
