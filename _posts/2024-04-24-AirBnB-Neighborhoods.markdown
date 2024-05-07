@@ -21,9 +21,12 @@ In this post, we'll be exploring AirBnB's data in Copenhagen at the moment of Se
 
 
 ### Room type analysis
-The provided pie charts offer a detailed breakdown of various aspects of rental properties in Copenhagen, ranging from bedroom and bed distribution to bath facilities and room types. The majority of listings feature one bedroom, indicating a prevalence of smaller accommodations suitable for solo travelers or couples. Similarly, the bed distribution chart shows a dominance of properties with one bed, aligning with the bedroom data. The bath distribution highlights that most properties provide one bathroom, enhancing convenience for guests. Additionally, the room type distribution chart reveals that a vast majority of properties are entire homes or apartments, suggesting a preference among travelers for privacy and full amenities, with only a small percentage opting for private or shared rooms. These visuals collectively paint a comprehensive picture of the rental options available, showcasing preferences and trends within the Copenhagen housing market.
+The provided bar charts offer a detailed breakdown of various aspects of rental properties in Copenhagen, ranging from bedroom and bed distribution to bath facilities and room types. The majority of listings feature one bedroom, indicating a prevalence of smaller accommodations suitable for solo travelers or couples. Similarly, the bed distribution chart shows a dominance of properties with one bed, aligning with the bedroom data. The bath distribution highlights that most properties provide one bathroom, enhancing convenience for guests. Additionally, the room type distribution chart reveals that a vast majority of properties are entire homes or apartments, suggesting a preference among travelers for privacy and full amenities, with only a small percentage opting for private or shared rooms. These visuals collectively paint a comprehensive picture of the rental options available, showcasing preferences and trends within the Copenhagen housing market.
 
-<img src="{{ site.baseurl }}/images/room_type.png" style="width: 100%; height: auto;">
+
+<iframe src="{{ site.baseurl }}/data_htmls/distribution.html" height="550" width="100%" style="border:none;"></iframe>
+
+
 
 
 ### Price analysis
