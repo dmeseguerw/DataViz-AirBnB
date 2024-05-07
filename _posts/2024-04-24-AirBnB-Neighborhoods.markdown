@@ -29,6 +29,13 @@ Let us now find out the the average price of rental units across the city by tak
 
 <img src="{{ site.baseurl }}/images/avg_neighborhood_price.png" style="width: 100%; height: auto;">
 
+
+
+In this elegant visualization, we delve into the pricing and rating landscapes of rental properties, captured through meticulously plotted histograms and a revealing scatter plot. The majority of properties boast near-perfect ratings, reflecting a market where excellence predominates and guest satisfaction is high. Turning to the price distribution, it’s a tale of affordability with most properties priced below 1,000 DKK, hinting at a diverse array of lodging options suitable for various budgets.
+
+<img src="{{ site.baseurl }}/images/price.png" style="width: 100%; height: auto;">
+
+
 In the following section we try to explain why it is this way but for now lets look at some more data. The provided pie charts offer a detailed breakdown of various aspects of rental properties in Copenhagen, ranging from bedroom and bed distribution to bath facilities and room types. The majority of listings feature one bedroom, indicating a prevalence of smaller accommodations suitable for solo travelers or couples. Similarly, the bed distribution chart shows a dominance of properties with one bed, aligning with the bedroom data. The bath distribution highlights that most properties provide one bathroom, enhancing convenience for guests. Additionally, the room type distribution chart reveals that a vast majority of properties are entire homes or apartments, suggesting a preference among travelers for privacy and full amenities, with only a small percentage opting for private or shared rooms. These visuals collectively paint a comprehensive picture of the rental options available, showcasing preferences and trends within the Copenhagen housing market.
 
 ### Room type analysis
@@ -37,9 +44,6 @@ The provided bar charts offer a detailed breakdown of various aspects of rental 
 
 <iframe src="{{ site.baseurl }}/data_htmls/distribution.html" height="550" width="100%" style="border:none;"></iframe>
 
-In this elegant visualization, we delve into the pricing and rating landscapes of rental properties, captured through meticulously plotted histograms and a revealing scatter plot. The majority of properties boast near-perfect ratings, reflecting a market where excellence predominates and guest satisfaction is high. Turning to the price distribution, it’s a tale of affordability with most properties priced below 1,000 DKK, hinting at a diverse array of lodging options suitable for various budgets.
-
-<img src="{{ site.baseurl }}/images/price.png" style="width: 100%; height: auto;">
 
 ### Neighborhood analysis
 
