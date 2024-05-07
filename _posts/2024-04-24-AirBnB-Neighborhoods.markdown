@@ -9,7 +9,7 @@ background: "/images/nyhavn.jpg"
 
 ### Explainer notebook
 
-To see the explainer notebook used to develop this assignment, click [here](https://nbviewer.org/github/dmeseguerw/DataViz-AirBnB/blob/main/Code/Final.ipynb)
+To see the explainer notebook used to develop this assignment, click [here](https://nbviewer.org/github/dmeseguerw/DataViz-AirBnB/blob/main/Code/Final.ipynb?flush_cache=true)
 
 ### About AirBnB 🏨🏠
 
