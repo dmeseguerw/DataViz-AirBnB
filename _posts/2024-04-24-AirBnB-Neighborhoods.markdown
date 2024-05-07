@@ -7,6 +7,10 @@ subtitle: "A small story on the company's status in Denmark's capital"
 background: "/images/nyhavn.jpg"
 ---
 
+### Explainer notebook
+
+To see the explainer notebook used to develop this assignment, click [here](https://nbviewer.org/github/dmeseguerw/DataViz-AirBnB/blob/main/Code/Final.ipynb)
+
 ### About AirBnB 🏨🏠
 
 20 years ago, if you wanted to travel to another city and stay there for a while, the only options you had were either to find a hotel or motel room. Hotels held a monopoly over the lodging industry, which allowed them to charge exorbitant amounts for relatively short duration of stays, simply because people didn't have any other choice. In 2007, the company AirBnB was founded in San Francisco, as a hospitality service that connects people who want to rent out their properties with people who are looking for accomodations. Since then, AirBnB has grown to over 5 million hosts, with more than 1.5 billion guests, in almost every country in the world. The idea is simple but effective: creating a safe platform for people to show the places they wanted to rent so they could earn some income, and also for visitors to rent places that felt like "home" [^airbnb].
