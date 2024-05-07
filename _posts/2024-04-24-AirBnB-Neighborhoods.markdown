@@ -59,8 +59,7 @@ We introduce a choropleth map that vividly illustrates the distribution of renta
 
 At a first glance, notice how 3 neighborhoods stand out as the ones with the highest number of rentals: **Nørrebro, Vesterbro-Kongens Enghave, and Indre By**. According to _Sølver_ [^nghbs], these 3 neighborhoods, along with Frederiksberg, are the best in Copenhagen. They all offer a lot of entertainment, restaurants, bakeries, shops, and sightseeing. For instance, Nørrebro is recognized for its authentic and local Copenhagen atmosphere, with several Danish bakeries 🥐 and local designer shops 👗, while Indre By is renowned for its list of sightseeing attractions 🧳🏛️, which can actually be seen on the map with the red markers ❗ [^landmarks].
 
-In the realm of rental availability, over half of the landlords typically offer their properties just one month in advance. However, in our analysis, when filtering out listings available for fewer than 180 days, **Indre By** dramatically leads over **Nørrebro and Vesterbro-Kongens Enghave** in listing percentages. As Copenhagen's quintessential tourist heartland, **Indre By** is dense with must-see attractions and is ripe with properties designed for the traveler in mind. Here, savvy landlords prefer longer lease periods, capitalizing on the constant flow of tourists, unlike their counterparts in quieter residential areas. This trend underlines a clever strategy by Indre By property owners who are keen to optimize earnings all year round from the ever-present tourist buzz.
-
+More than half of the landlords typically offer their properties just one month in advance. However, in our analysis, when filtering out listings available for fewer than 180 days, **Indre By** dramatically leads over **Nørrebro and Vesterbro-Kongens Enghave** in listing percentages. Here is an interesting fact. Most of the properties that are listed in **Indre By** are properties which are not occupied by the owners. This means that the owners can rent these units for longer durations of time. Since, **Indre By** is a tourist heartland, which is full of attractions, restaurants and the rich and vibrant culture of Denmark, savvy landlords have purpose built properties that must be occupied for longer duration of times. This allows the landlords to maximize their profits.   
 <img src="{{ site.baseurl }}/images/filter_available.png" style="width: 100%; height: auto;">
 
 ##### Harder to get to neighborhoods
@@ -73,9 +72,9 @@ On the other hand, notice the 4 neighborhoods with the least amount of rentals: 
 
 If we observe the public transportation map of Copenhagen 🚄[^transport], we can immediately notice something about the metro and the trains: most of the routes are located on the east part of the city. This is something interesting to note if you are planning on visiting Copenhagen. Even though there are a lot of bus routes and services offered in these neighborhoods, train and metro services are lacking, with most of them only having a couple of stops.
 
-#### Short break!
+#### Let's Play with the data
 
-Now we want to take a break from all this interesting stories. Feel free to play around with the following map containing markers for all AirBnB rentals in Copenhagen! You can filter out by neighborhoods, and zoom in to find interesting patterns, or even find if there are any rentals near your place. Maybe you'll decide to rent your place if you live in an area with a lack of rentals 😊
+Feel free to play around with the following map containing markers for all AirBnB rentals in Copenhagen! You can filter out by neighborhoods, and zoom in to find interesting patterns, or even find if there are any rentals near your place. Maybe you'll decide to rent your place if you live in an area with a lack of rentals 😊
 
 <iframe src="{{ site.baseurl }}/data_htmls/airbnbs_marker.html" height="500" width="100%"></iframe>
 
